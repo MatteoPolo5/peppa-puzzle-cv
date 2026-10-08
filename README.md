@@ -10,7 +10,7 @@ L'obiettivo è l'elaborazione, segmentazione ed estrazione automatica delle sing
 
 ---
 
-## 📌 Pipeline del Progetto
+## Pipeline del Progetto
 
 1. **Pre-processing & Thresholding**
    - Caricamento dell'immagine di riferimento (`peppa.png`) e dei fogli con le tessere disposte in modo sparso (`pieces1.png`, `pieces2.png`, ecc.).
@@ -31,7 +31,7 @@ L'obiettivo è l'elaborazione, segmentazione ed estrazione automatica delle sing
 
 ---
 
-## 🖼️ Risultati Visivi
+## Risultati Visivi
 
 | Immagine Target | Tessere Originali | Segmentazione e Contorni |
 | :---: | :---: | :---: |
@@ -41,7 +41,7 @@ L'obiettivo è l'elaborazione, segmentazione ed estrazione automatica delle sing
 
 ---
 
-## 📂 Struttura della Repository
+## Struttura della Repository
 
 ```text
 peppa-puzzle-cv/
