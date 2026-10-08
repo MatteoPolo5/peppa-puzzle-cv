@@ -1,0 +1,17 @@
+# Ambienti virtuali
+computervision/
+venv/
+.venv/
+env/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Checkpoint Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Dati di output / file temporanei pesanti
+data/output/*
+!data/output/.gitkeep
