@@ -1,4 +1,4 @@
-# 🧩 Peppa Puzzle: Image Segmentation & Matching in Computer Vision
+# Peppa Puzzle: Image Segmentation & Matching in Computer Vision
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://opencv.org/)
@@ -35,7 +35,7 @@ L'obiettivo è l'elaborazione, segmentazione ed estrazione automatica delle sing
 
 | Immagine Target | Tessere Originali | Segmentazione e Contorni |
 | :---: | :---: | :---: |
-| ![Target](data/peppa/peppa.png) | ![Pezzi](data/peppa/pieces1.png) | ![Contorni](assets/contours_demo.png) |
+| ![Target](data/peppa/peppa.png) | ![Pezzi](data/peppa/pieces1.png) | ![Contorni](data/contours.png) |
 
 > *Nota: salva gli screenshot o i grafici di output nella cartella `assets/` per visualizzarli nella tabella sopra.*
 
