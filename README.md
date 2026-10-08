@@ -33,8 +33,8 @@ L'obiettivo è l'elaborazione, segmentazione ed estrazione automatica delle sing
 
 ## Risultati Visivi
 
-| Immagine Target | Tessere Originali | Segmentazione e Contorni |
-| :---: | :---: | :---: |
+| Immagine Target | Segmentazione e Contorni |
+| :---: | :---: |
 | ![Target](data/peppa/peppa.png) | ![Contorni](data/peppa/contours.png) |
 
 ---
