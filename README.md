@@ -35,9 +35,7 @@ L'obiettivo è l'elaborazione, segmentazione ed estrazione automatica delle sing
 
 | Immagine Target | Tessere Originali | Segmentazione e Contorni |
 | :---: | :---: | :---: |
-| ![Target](data/peppa/peppa.png) | ![Pezzi](data/peppa/pieces1.png) | ![Contorni](data/contours.png) |
-
-> *Nota: salva gli screenshot o i grafici di output nella cartella `assets/` per visualizzarli nella tabella sopra.*
+| ![Target](data/peppa/peppa.png) | ![Contorni](data/peppa/contours.png) |
 
 ---
 
